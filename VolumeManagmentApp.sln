@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeManagmentApp", "VolumeManagmentApp\VolumeManagmentApp.csproj", "{3F8AB2A0-BEDA-414A-9CDD-5C6E7877A80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F8AB2A0-BEDA-414A-9CDD-5C6E7877A80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8AB2A0-BEDA-414A-9CDD-5C6E7877A80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8AB2A0-BEDA-414A-9CDD-5C6E7877A80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8AB2A0-BEDA-414A-9CDD-5C6E7877A80A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B98EB9B-E3EE-4304-A8AC-00E363C0C911}
+	EndGlobalSection
+EndGlobal
